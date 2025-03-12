@@ -73,13 +73,13 @@ sections:
     id: talks
     content:
       title: Talks, Podcasts, etc.
-      count: 2
+      count: 6
       filters:
         folders:
           - event
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   # - block: collection
   #   id: news
   #   content:

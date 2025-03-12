@@ -29,10 +29,34 @@
     </item>
     
     <item>
+      <title>Naruhodo Entrevista 11 - Mila Laranjeira</title>
+      <link>http://localhost:1313/event/2024-naruhodo-entrevista/</link>
+      <pubDate>Mon, 12 Feb 2024 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2024-naruhodo-entrevista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ChatGPT, Transformers e Redes Neurais - Hipsters Ponto Tech 352</title>
       <link>http://localhost:1313/event/2023-hipsters-chatgpt/</link>
       <pubDate>Tue, 11 Apr 2023 13:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/2023-hipsters-chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanos versus Inteligências Artificiais - Nerdcast</title>
+      <link>http://localhost:1313/event/2022-nerdcast-humanos/</link>
+      <pubDate>Fri, 01 Apr 2022 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2022-nerdcast-humanos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O futuro (des)esperado das I.A.s - Nerdcast</title>
+      <link>http://localhost:1313/event/2019-nerdcast-futuro/</link>
+      <pubDate>Wed, 06 Nov 2019 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/2019-nerdcast-futuro/</guid>
       <description></description>
     </item>
     
