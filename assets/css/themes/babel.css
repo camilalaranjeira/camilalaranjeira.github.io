@@ -1,0 +1,30 @@
+/* Hugo Blox color theme: EMERALD */
+:root {
+    --color-primary-50: 224 245 249;
+    --color-primary-100: 190 235 243;
+    --color-primary-200: 150 222 236;
+    --color-primary-300: 116 207 223;
+    --color-primary-400: 95 192 213;
+    --color-primary-500: 82 177 199;
+    --color-primary-600: 65 149 169;
+    --color-primary-700: 52 122 140;
+    --color-primary-800: 40 96 112;
+    --color-primary-900: 30 72 85;
+    --color-primary-950: 18 45 52;
+}
+
+/*
+:rgb-preview {
+    --color-50: rgb(224, 245, 249);
+    --color-100: rgb(190, 235, 243);
+    --color-200: rgb(150, 222, 236);
+    --color-300: rgb(116, 207, 223);
+    --color-400: rgb(95, 192, 213);
+    --color-500: rgb(82, 177, 199);
+    --color-600: rgb(65, 149, 169);
+    --color-700: rgb(52, 122, 140);
+    --color-800: rgb(40, 96, 112);
+    --color-900: rgb(30, 72, 85);
+    --color-950: rgb(18, 45, 52);
+}
+    */
