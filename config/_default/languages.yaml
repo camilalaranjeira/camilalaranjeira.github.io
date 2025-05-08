@@ -6,17 +6,29 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
+pt:
+ languageCode: pt-br
+ contentDir: content/pt
+ title: Camila Laranjeira
 #  params:
 #    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+ menu:
+    main:
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Publicações
+        url: /#papers
+        weight: 11
+      - name: Docência
+        url: /#teaching #/teaching (reference to folder, block collection)
+        weight: 12
+      - name: Divulgação de Ciência
+        url: /#talks
+        weight: 13
+      - name: Contato
+        url: /#contact
+        weight: 20
