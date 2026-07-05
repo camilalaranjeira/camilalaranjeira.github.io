@@ -53,12 +53,12 @@ sections:
       #   A <br> <br>
       text: '
         <b> Instituto Federal de Educação Ciência e Tecnologia de Minas Gerais <span style="color:#ea3578">(IFMG)</span> </b> <br>
-        Programação Orientada a Objetos (2026)
-        Algoritmos e Lógica de Programação (2026)
-        Introdução ao Desenvolvimento de Jogos (2026)
-        Desenvolvimento de Projetos (2025, 2026)
-        Banco de Dados II (2025)
-        Informática Aplicada à Administração (2025)
+        Programação Orientada a Objetos (2026) <br>
+        Algoritmos e Lógica de Programação (2026) <br>
+        Introdução ao Desenvolvimento de Jogos (2026) <br>
+        Desenvolvimento de Projetos (2025, 2026) <br>
+        Banco de Dados II (2025) <br>
+        Informática Aplicada à Administração (2025) <br> <br>
 
         <b> Universidade Federal de Minas Gerais <span style="color:#ea3578">(UFMG)</span> </b> <br>
         Introdução a Programação de Computadores (2018.2, 2019.1)  <br>
