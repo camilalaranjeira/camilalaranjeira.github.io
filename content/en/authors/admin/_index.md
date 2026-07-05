@@ -111,6 +111,6 @@ education:
 
 # Olá! ¡Hola! Hi!
 
-I'm a Ph.D. in Computer Science with extensive research and teaching experience, and a science communicator through the [*Peixe Babel* channel on Youtube](https://www.youtube.com/CanalPeixeBabel). My research interests include artificial intelligence, computer vision, and applications for social good.
+I'm a Ph.D. in Computer Science with extensive research and teaching experience, and a science communicator through the [*Peixe Babel* channel on Youtube](https://www.youtube.com/CanalPeixeBabel). My research interests include Ethics in Artificial Intelligence, Computer Vision, Pattern Recognition, and applications for social good.
 
 <!-- I'm a computer science professor at the [*Instituto Federal de Minas Gerais*](https://www.ifmg.edu.br/ribeiraodasneves) and science communicator through the [*Peixe Babel* channel on Youtube](https://www.youtube.com/CanalPeixeBabel). My research interests include artificial intelligence, computer vision, and applications for social good. -->

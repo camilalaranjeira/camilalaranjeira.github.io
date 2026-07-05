@@ -111,4 +111,4 @@ education:
 
 # Olá! ¡Hola! Hi!
 
-Eu sou baiana, doutora em ciência da computação com experiência em pesquisa e docência, além de fazer divulgação de ciência através do canal [Peixe Babel no YouTube](https://www.youtube.com/CanalPeixeBabel). Meus interesses de pesquisa incluem inteligência artificial, visão computacional, e aplicações para o bem social.
+Eu sou baiana, doutora em ciência da computação com experiência em pesquisa e docência, além de fazer divulgação de ciência através do canal [Peixe Babel no YouTube](https://www.youtube.com/CanalPeixeBabel). Meus interesses de pesquisa incluem Ética em Inteligência Artificial, Visão Computacional, Reconhecimento de Padrões, além de aplicações para o bem social.
